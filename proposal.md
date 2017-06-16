@@ -1,5 +1,5 @@
 # Track 2 - Big data on AWS
-> note: this is an example and you need to specify your proposals according to what you are going to do in your own projects
+> note: This is an example and you need to specify your proposals according to what you are going to do in your own projects. Please edit this template and upload the proposals before 11:59 p.m. on June 21! 
 
 ### Introduction
 *" As a data engineer, i want to create an awesome data product that analyzes user website access pattern. I am going to use Pig, Hive, Spark, Cassandra, Kafka, etc"*
